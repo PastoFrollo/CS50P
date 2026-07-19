@@ -1,6 +1,6 @@
 # CS50P - Introduction to Programming with Python
 
-_Read this in other languages[Italiano](README_IT.md)_
+_Read this in other languages: [Italiano](README_IT.md)_
 
 This repository contains my personal solutions to the problems and exercises from the **CS50P** course (Introduction to Programming with Python) offered by **Harvard University** via edX.
 
