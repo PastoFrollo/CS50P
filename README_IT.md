@@ -56,4 +56,4 @@ cd "1_w"
 python interpreter.py
 ```
 
-**Nota accademica sull'Onestà Intellettuale**Questo repository è nato con lo scopo di tracciare i miei progressi personali e mantenere un archivio del mio codice. Se stai seguendo il corso CS50P: ti incoraggio caldamente a provare a risolvere i problemi in autonomia prima di consultare soluzioni esterne: in linea con la Academic Honesty Policy di Harvard.
+**Nota accademica sull'Onestà Intellettuale:** Questo repository è nato con lo scopo di tracciare i miei progressi personali e mantenere un archivio del mio codice. Se stai seguendo il corso CS50P: ti incoraggio caldamente a provare a risolvere i problemi in autonomia prima di consultare soluzioni esterne: in linea con la Academic Honesty Policy di Harvard.

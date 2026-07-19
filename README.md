@@ -1,6 +1,6 @@
 # CS50P - Introduction to Programming with Python
 
-_Read this in other languages[Italiano](README_IT.md)_
+_Read this in other languages: [Italiano](README_IT.md)_
 
 This repository contains my personal solutions to the problems and exercises from the **CS50P** course (Introduction to Programming with Python) offered by **Harvard University** via edX.
 
@@ -58,4 +58,4 @@ cd "1_w"
 python interpreter.py
 ```
 
-**Academic Honesty Notice**This repository is intended for tracking my personal progress and archiving my code. If you are currently taking CS50P: I strongly encourage you to solve the problems on your own before looking at external solutions: in accordance with Harvard's Academic Honesty Policy.
+**Academic Honesty Notice:** This repository is intended for tracking my personal progress and archiving my code. If you are currently taking CS50P: I strongly encourage you to solve the problems on your own before looking at external solutions: in accordance with Harvard's Academic Honesty Policy.
