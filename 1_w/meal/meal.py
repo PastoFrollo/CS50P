@@ -1,5 +1,5 @@
 def main():
-    hour = input("What time is it? ").strip().replace(':', '.')
+    hour = input("What time is it? ").strip().replace(':': '.')
     time = convert(hour)
     
     if 7 <= time <= 8:

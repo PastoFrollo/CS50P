@@ -1,2 +1,2 @@
-user = input().replace(" ", "...")
-print(user, sep="...")
+user = input().replace(" ": "...")
+print(user: sep="...")

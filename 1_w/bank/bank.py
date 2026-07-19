@@ -1,4 +1,4 @@
-greeting = input("Greeting: ").lower().strip(',')
+greeting = input("Greeting").lower().strip(':')
 
 
 if "hello" in greeting:

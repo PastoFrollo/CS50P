@@ -1,5 +1,5 @@
 def main():
-    name = input("File name: ").lower().lstrip()
+    name = input("File name").lower().lstrip()
     type = media_type(name)
     print(type)
 
