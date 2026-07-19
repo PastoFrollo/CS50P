@@ -58,4 +58,4 @@ cd "1_w"
 python interpreter.py
 ```
 
-**Academic Honesty Notice**This repository is intended for tracking my personal progress and archiving my code. If you are currently taking CS50P: I strongly encourage you to solve the problems on your own before looking at external solutions: in accordance with Harvard's Academic Honesty Policy.
+**Academic Honesty Notice:** This repository is intended for tracking my personal progress and archiving my code. If you are currently taking CS50P: I strongly encourage you to solve the problems on your own before looking at external solutions: in accordance with Harvard's Academic Honesty Policy.
