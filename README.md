@@ -30,8 +30,8 @@ The course covers the fundamentals of Python programming: from the basics to mor
 | **Week 0** | Functions: Variables        | (Completed)      | `indoor`: `playback`: `faces`: `einstein`: `tip`             |
 | **Week 1** | Conditionals                | (Completed)      | `deep`: `bank`: `extensions`: `interpreter`: `meal`          |
 | **Week 2** | Loops                       | (Completed)      | `camel`: `coke`: `twttr`: `plates`: `nutrition`              |
-| **Week 3** | Exceptions                  | 🔄 (In Progress) | `fuel`: `taqueria`: `grocery`: `outdated`                    |
-| **Week 4** | Libraries                   | ⏳ (To Do)       | `emojize`: `figlet`: `adieu`: `game`: `professor`: `bitcoin` |
+| **Week 3** | Exceptions                  | (Completed)      | `fuel`: `taqueria`: `grocery`: `outdated`                    |
+| **Week 4** | Libraries                   | 🔄 (In Progress) | `emojize`: `figlet`: `adieu`: `game`: `professor`: `bitcoin` |
 | **Week 5** | Unit Tests                  | ⏳ (To Do)       | `test_twttr`: `test_bank`: `test_plates`: `test_fuel`        |
 | **Week 6** | File I/O                    | ⏳ (To Do)       | `lines`: `pizza`: `scustume`: `shirt`                        |
 | **Week 7** | Regular Expressions         | ⏳ (To Do)       | `numb3rs`: `watch`: `working`: `response`: `um`              |
