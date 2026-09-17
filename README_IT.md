@@ -30,8 +30,8 @@ Il corso copre i fondamenti della programmazione in Python: partendo dalle basi 
 | **Week 2** | Loops                       | (Completato)  | `camel`: `coke`: `twttr`: `plates`: `nutrition`              |
 | **Week 3** | Exceptions                  | (Completato)  | `fuel`: `taqueria`: `grocery`: `outdated`                    |
 | **Week 4** | Libraries                   | (Completato)  | `emojize`: `figlet`: `adieu`: `game`: `professor`: `bitcoin` |
-| **Week 5** | Unit Tests                  | 🔄 (In Corso) | `test_twttr`: `test_bank`: `test_plates`: `test_fuel`        |
-| **Week 6** | File I/O                    | ⏳ (Da Fare)  | `lines`: `pizza`: `scustume`: `shirt`                        |
+| **Week 5** | Unit Tests                  | (Completato)  | `test_twttr`: `test_bank`: `test_plates`: `test_fuel`        |
+| **Week 6** | File I/O                    | 🔄 (In Corso) | `lines`: `pizza`: `scustume`: `shirt`                        |
 | **Week 7** | Regular Expressions         | ⏳ (Da Fare)  | `numb3rs`: `watch`: `working`: `response`: `um`              |
 | **Week 8** | Object-Oriented Programming | ⏳ (Da Fare)  | `seasons`: `cookie`: `jar`: `shirtificate`                   |
 | **Week 9** | Project                     | ⏳ (Da Fare)  | Final Project                                                |
